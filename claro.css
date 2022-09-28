@@ -1,5 +1,5 @@
 body{
-    background-color: #B1B2FF ;
+    background-color: #FFD6EC ;
 }
 th{
     color: #6F38C5;
@@ -10,4 +10,19 @@ img{
 }
 h1{
     text-align: center;
+    font-size: 2em;
+    color: black;
 }
+table tr {text-align: center;}
+
+header{background-image: url(/assets/imagenes/fondoplaylist.jpeg);}
+table {
+    background-color: #3D3C42;
+    width: 100%;
+    border: 2px solid white;
+}
+table td {
+    border: 2px solid #FFD6EC;;
+     color: white;
+}
+
