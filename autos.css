@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+.autos span {
+    color: deeppink;
+    font-size: 1.3em;
+    font-weight: 800;
+}
+.autos{
+    margin: 15px;
+    padding: 6px;
+    border: 2px solid aquamarine;
+}
